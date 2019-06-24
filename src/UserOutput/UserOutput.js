@@ -6,7 +6,7 @@ const UserOutput = (props) =>{
         size : 'solid',
         margin : '15px',
         padding : "16px",
-        "text-align": "center"
+        textAlign: "center"
     
       }
         return(
