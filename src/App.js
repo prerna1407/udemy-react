@@ -1,10 +1,10 @@
 import React , {Component} from 'react';
 import logo from './logo.svg';
 import './App.css';
-import UserInput from './UserInput/UserInput';
-import UserOutput from './UserOutput/UserOutput';
-import InputVarLength from './Validation/ValidationComponent';
-import CharComponent from './Char/CharComponent';
+import UserInput from './Assignment01/UserInput/UserInput';
+import UserOutput from './Assignment01/UserOutput/UserOutput';
+import InputVarLength from './Assignment02/Validation/ValidationComponent';
+import CharComponent from './Assignment02/Char/CharComponent';
 
 class App extends Component {
   state = {
